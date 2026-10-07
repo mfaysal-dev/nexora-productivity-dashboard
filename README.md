@@ -13,3 +13,6 @@ A premium, professional animated website built with **HTML5, CSS3, JavaScript, a
 - Clean, organized code structure — easy to customize
 
 ## 📁 File Structure
+## Author
+
+Built by [Mahir Faysal](https://mfaysal.com) — more projects at [mfaysal.com/projects](https://mfaysal.com/projects)
